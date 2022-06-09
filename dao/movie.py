@@ -34,3 +34,4 @@ class MovieDAO:
 
         self.session.add(movie)
         self.session.commit()
+
